@@ -48,7 +48,7 @@ $total= FrontendController::cartitems();
           <a class="btn btn-warning" href="login">Login</a>
         </li>
         <li>
-          <a class="btn btn-warning" href="Register">Register</a>
+          <a class="btn btn-info" href="Register">Register</a>
         </li>
         @endif
       </div>
